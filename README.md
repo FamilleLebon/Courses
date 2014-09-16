@@ -5,7 +5,7 @@ S.A.R.A.H plugin Courses
 
 pré requis : Pour pouvoir avoir les notifications vous devez avoir installer le plugin PUSH.
 
---- Dans le fichier curses.xml vous devez spécifier le nom de (ou des) personnes à notifier; dans la partie
+--- Dans le fichier courses.xml vous devez spécifier le nom de (ou des) personnes à notifier; dans la partie
 <!-- envoie via push-->
 ....
 out.action.qui = "VOTRE NOM";
